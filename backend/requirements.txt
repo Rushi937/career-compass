@@ -9,3 +9,4 @@ numpy==1.26.3
 python-dotenv==1.0.0
 requests==2.31.0
 Werkzeug==3.0.1
+gunicorn==23.0.0
